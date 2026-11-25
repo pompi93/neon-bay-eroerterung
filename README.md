@@ -10,6 +10,10 @@ Thema aller Aufgaben: *Sollte an Schulen ein Handyverbot gelten?*
 - Nach jeder Mission erscheint ein **Speichercode** (`NB-XXXX-…`). Damit spielen die Lernenden auf jedem Gerät weiter, und die Lehrkraft sieht anhand des Codes, wo es hakt.
 - Der Spielstand wird nur im Browser des Geräts gespeichert. Die Seite lädt keine Inhalte von fremden Servern und speichert keine Daten auf einem Server.
 
+## Auswertung für die Lehrkraft
+
+`auswertung.html`: Speichercodes der Klasse einfügen (z. B. „Mia: NB-…“). Die Auswertung läuft nur im Browser, es wird nichts gespeichert oder übertragen.
+
 ## Tipp für iPads
 
 Die Seite über „Teilen“ → „Zum Home-Bildschirm“ als App ablegen. Dann löscht Safari den Spielstand nicht nach einer Woche ohne Nutzung.
